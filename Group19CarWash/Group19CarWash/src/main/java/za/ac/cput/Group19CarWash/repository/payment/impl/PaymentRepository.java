@@ -7,12 +7,7 @@ package za.ac.cput.Group19CarWash.repository.payment.impl;
   10 April 2022
  */
 
-
-
-import za.ac.cput.Group19CarWash.domain.Customer;
 import za.ac.cput.Group19CarWash.domain.Payment;
-import za.ac.cput.Group19CarWash.repository.customer.impl.CustomerRepository;
-
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package za.ac.cput.repository;
+package za.ac.cput.Group19CarWash.repository.payment;
 
 /*
   IPaymentRepository.java
